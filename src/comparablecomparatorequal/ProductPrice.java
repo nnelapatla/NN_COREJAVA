@@ -1,6 +1,6 @@
 package comparablecomparatorequal;
 
-public class ProductPrice implements Comparable<comparablecomparatorequal.ProductPrice> {
+public class ProductPrice implements Comparable<ProductPrice> {
         private double weight;
         private double price;
         private int id;
