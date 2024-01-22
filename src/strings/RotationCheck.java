@@ -1,4 +1,4 @@
-package strin;
+package strings;
 
 public class RotationCheck {
         public static void main(String[] args) {

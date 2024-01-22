@@ -1,4 +1,4 @@
-package strin;
+package strings;
 public class AnagramCheck {
     public static void main(String[] args) {
         // Provide the two strings directly
